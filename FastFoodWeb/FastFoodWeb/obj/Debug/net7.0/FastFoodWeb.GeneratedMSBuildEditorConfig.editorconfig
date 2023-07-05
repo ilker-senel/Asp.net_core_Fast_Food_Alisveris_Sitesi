@@ -9,37 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FastFoodWeb
 build_property.RootNamespace = FastFoodWeb
-build_property.ProjectDir = C:\Users\DellPc\Desktop\Documents\GitHub\Asp.net_core_Fast_Food_Alisveris_Sitesi\FastFoodWeb\FastFoodWeb\
+build_property.ProjectDir = C:\Users\DellPc\Desktop\Akay Yazılım\FastFoodWeb\FastFoodWeb\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\DellPc\Desktop\Documents\GitHub\Asp.net_core_Fast_Food_Alisveris_Sitesi\FastFoodWeb\FastFoodWeb
+build_property.MSBuildProjectDirectory = C:\Users\DellPc\Desktop\Akay Yazılım\FastFoodWeb\FastFoodWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/DellPc/Desktop/Documents/GitHub/Asp.net_core_Fast_Food_Alisveris_Sitesi/FastFoodWeb/FastFoodWeb/Views/Home/Index.cshtml]
+[C:/Users/DellPc/Desktop/Akay Yazılım/FastFoodWeb/FastFoodWeb/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DellPc/Desktop/Akay Yazılım/FastFoodWeb/FastFoodWeb/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DellPc/Desktop/Akay Yazılım/FastFoodWeb/FastFoodWeb/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DellPc/Desktop/Akay Yazılım/FastFoodWeb/FastFoodWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DellPc/Desktop/Documents/GitHub/Asp.net_core_Fast_Food_Alisveris_Sitesi/FastFoodWeb/FastFoodWeb/Views/Home/Privacy.cshtml]
+[C:/Users/DellPc/Desktop/Akay Yazılım/FastFoodWeb/FastFoodWeb/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DellPc/Desktop/Documents/GitHub/Asp.net_core_Fast_Food_Alisveris_Sitesi/FastFoodWeb/FastFoodWeb/Views/Shared/Error.cshtml]
+[C:/Users/DellPc/Desktop/Akay Yazılım/FastFoodWeb/FastFoodWeb/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DellPc/Desktop/Documents/GitHub/Asp.net_core_Fast_Food_Alisveris_Sitesi/FastFoodWeb/FastFoodWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/DellPc/Desktop/Akay Yazılım/FastFoodWeb/FastFoodWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DellPc/Desktop/Documents/GitHub/Asp.net_core_Fast_Food_Alisveris_Sitesi/FastFoodWeb/FastFoodWeb/Views/_ViewImports.cshtml]
+[C:/Users/DellPc/Desktop/Akay Yazılım/FastFoodWeb/FastFoodWeb/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DellPc/Desktop/Documents/GitHub/Asp.net_core_Fast_Food_Alisveris_Sitesi/FastFoodWeb/FastFoodWeb/Views/_ViewStart.cshtml]
+[C:/Users/DellPc/Desktop/Akay Yazılım/FastFoodWeb/FastFoodWeb/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DellPc/Desktop/Documents/GitHub/Asp.net_core_Fast_Food_Alisveris_Sitesi/FastFoodWeb/FastFoodWeb/Views/Shared/_Layout.cshtml]
+[C:/Users/DellPc/Desktop/Akay Yazılım/FastFoodWeb/FastFoodWeb/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ulftkz9185
